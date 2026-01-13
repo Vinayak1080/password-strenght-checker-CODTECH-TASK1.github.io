@@ -3,7 +3,7 @@ Company : CODTECH IT SOLUTIONS
 ID : CT08DS02
 Domain : CYBERSECURITY AND ETHICAL HACKING
 Duration : Dec to Jan 2025
-Mentor :  Neela Santhosh Kumar 
+Mentor :  Neela Santhosh Kumar
 
 
 Project Overview: Password Strength Checker
