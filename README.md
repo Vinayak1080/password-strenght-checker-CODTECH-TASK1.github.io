@@ -11,7 +11,7 @@ The primary goal of this project is to develop a tool that evaluates the strengt
 
 Key Features:
 
-Password Analysis
+Password Analysis:
 
 Length: Assesses whether the password meets minimum length requirements.
 Complexity: Evaluates the inclusion of uppercase letters, lowercase letters, numbers, and special characters.
