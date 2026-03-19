@@ -2,7 +2,7 @@ Name : VINAYAK LAXMIKANT SHETTI.
 Company : CODTECH IT SOLUTIONS
 ID : CT08DS02
 Domain : CYBERSECURITY AND ETHICAL HACKING
-Duration : Dec to Jan 2025
+Duration : Dec to Jan 202
 Mentor :  Neela Santhosh Kumar
 
 Project Overview: Password Strength Checker
