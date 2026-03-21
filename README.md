@@ -10,6 +10,7 @@ Objective:
 The primary goal of this project is to develop a tool that evaluates the strength of user-entered passwords. By providing real-time feedback on password strength, the tool helps users create secure passwords, enhancing their overall online security.
 Key Features
 Password Analysis:
+
 Length: Assesses whether the password meets minimum ength requirements.
 Complexity: Evaluates the inclusion of uppercase letters, lowercase letters, numbers, and special characters.
 Uniqueness: Detects commonly used or predictable patterns, such as dictionary words or sequences.
