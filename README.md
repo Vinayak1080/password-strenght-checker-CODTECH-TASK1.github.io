@@ -6,7 +6,7 @@ Duration : Dec to Jan 2025
 Mentor :  Neela Santhosh Kumar
 
 
-insc
+
 
 
 Project Overview: Password Strength Checker
