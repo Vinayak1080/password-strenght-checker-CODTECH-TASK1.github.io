@@ -9,7 +9,9 @@ Project Overview: Password Strength Checker
 Objective:
 The primary goal of this project is to develop a tool that evaluates the strength of user-entered passwords. By providing real-time feedback on password strength, the tool helps users create secure passwords, enhancing their overall online security.
 
-Key Features
+Key 
+
+
 Password Analysis:
 
 Length: Assesses whether the password meets minimum ength requirements.
