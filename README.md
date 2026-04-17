@@ -14,6 +14,8 @@ Key
 
 Password Analysis:
 
+
+
 Length: Assesses whether the password meets minimum ength requirements.
 Complexity: Evaluates the inclusion of uppercase letters, lowercase letters, numbers, and special characters.
 Uniqueness: Detects commonly used or predictable patterns, such as dictionary words or sequences.
